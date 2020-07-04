@@ -1,14 +1,17 @@
-# make to lego image
-## why don't you make your own lego image!
+## 1. Overview
+- **Project Name : Let's make lego image**
+- **You can make lego image with this code.**  
 
-just upload your photo,
-and this code will convert it to lego image.
-and we will you excel file! enjoy it!
+## 2. How to use
+- just upload your photo,
+- this code will convert it to lego image.
 
-How to use it!
-type in command line like this
-ex) :python lego.py -r sh.jpg -n 10 -d 100
 
--r is image rout or image name
--n is how many divide that image
--c is value of contrast 
+- type in command line like this
+- **ex) python lego.py -r sh.jpg -n 10 -dd 100**  
+  
+-r is image rout(image name)  
+-n is determine how much to divide the image  
+-c is value of contrast  
+
+enjoy it!
