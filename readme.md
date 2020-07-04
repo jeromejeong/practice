@@ -8,7 +8,7 @@
 
 
 - type in command line like this
-- **ex) python lego.py -r sh.jpg -n 10 -dd 100**  
+- **ex) python lego.py -r sh.jpg -n 10 -d 100**  
   
 -r is image rout(image name)  
 -n is determine how much to divide the image  
