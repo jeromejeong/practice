@@ -87,7 +87,7 @@ againbigimage=cv2.resize(simage,dsize=(wsize,hsize),interpolation=cv2.INTER_AREA
 
 ##cv2.imshow("zzazan0",image)
 ##cv2.imshow("zzazan1",simage)
-##cv2.imshow("zzazan2",againbigimage)
+cv2.imshow("zzazan2",againbigimage)
 ##cv2.imshow("zzazan3",grayimage)
-cv2.imshow("zzazan4",newsimage)
+##cv2.imshow("zzazan4",newsimage)
 cv2.waitKey(0)
